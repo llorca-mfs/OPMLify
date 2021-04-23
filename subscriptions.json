@@ -1,0 +1,1261 @@
+[ {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 1324
+  },
+  "etag" : "zgWW5f3Oky1aNgCQ2WK0t4ktuUs",
+  "id" : "UfqiJOekh3bhycVZF1dDVifAqaujLALjpKn5WkJKpdI",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "MKBHD: Quality Tech Videos | YouTuber | Geek | Consumer Electronics | Tech Head | Internet Personality!\n\nMy video production gear: https://kit.co/MKBHD/video-gear\n\nmarques@MKBHD.com\n\nNYC",
+    "publishedAt" : "2020-12-12T12:20:50.141Z",
+    "resourceId" : {
+      "channelId" : "UCBJycsmduvYEL83R_U4JriQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnj5jlzglc9UsBNN1KVohdVV0SP_uLAuCtspp4f9Wg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnj5jlzglc9UsBNN1KVohdVV0SP_uLAuCtspp4f9Wg=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnj5jlzglc9UsBNN1KVohdVV0SP_uLAuCtspp4f9Wg=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Marques Brownlee"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 186
+  },
+  "etag" : "dvl7xyLqJThJnr3xaYVqVTMce50",
+  "id" : "UfqiJOekh3ZqN58bDK31q0gTJA-O6PP4vETTJtjeYx8",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "What's in the box? Let's find out!\n\nOfficial channel under Linus Media Group.",
+    "publishedAt" : "2021-01-26T04:02:48.091Z",
+    "resourceId" : {
+      "channelId" : "UCdBK94H6oZT2Q7l0-b0xmMg",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhltwsI1hcEUoo9jvBgXhT_fTrzOCHuH6NIGv2j=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhltwsI1hcEUoo9jvBgXhT_fTrzOCHuH6NIGv2j=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhltwsI1hcEUoo9jvBgXhT_fTrzOCHuH6NIGv2j=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "ShortCircuit"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 372
+  },
+  "etag" : "DAdADjewVXHjrkKOVmfw72sg5kc",
+  "id" : "UfqiJOekh3bhycVZF1dDVvJpOkxT8V01NZYUtVbRA7E",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "bat ka umaabot dito? walang meron dito.  gago ka ba?",
+    "publishedAt" : "2020-12-12T11:51:37.672Z",
+    "resourceId" : {
+      "channelId" : "UC73zqrs0Th_a9dFUivEmv2A",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniJPCUr2IllIBDiqFARe_F4u33tQ6AvbWLeqRVmIA=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniJPCUr2IllIBDiqFARe_F4u33tQ6AvbWLeqRVmIA=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniJPCUr2IllIBDiqFARe_F4u33tQ6AvbWLeqRVmIA=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Cong TV"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 5274
+  },
+  "etag" : "Mp9tD-mVdvF7aXccGMXKB1FiJV0",
+  "id" : "UfqiJOekh3bhycVZF1dDVqRyOUWLh_MgCys9Pc1o--M",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Tech can be complicated; we try to make it easy.\n\nLinus Tech Tips is a passionate team of \"professionally curious\" experts in consumer technology and video production which aims to inform and educate people of all ages through entertaining videos. We create product reviews, step-by-step computer build guides, and a variety of other tech-focused projects.\n\nSchedule:\nNew videos every Saturday to Thursday @ 10:00am Pacific\nLive WAN Show podcasts every Friday @ 5:00pm Pacific",
+    "publishedAt" : "2020-12-14T04:20:21.409Z",
+    "resourceId" : {
+      "channelId" : "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniY8s1SAKzcuSpRCVQws9X4DY_btyihPC-BCFf7jw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniY8s1SAKzcuSpRCVQws9X4DY_btyihPC-BCFf7jw=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniY8s1SAKzcuSpRCVQws9X4DY_btyihPC-BCFf7jw=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Linus Tech Tips"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 138
+  },
+  "etag" : "9tHlmihwJcEifPqatdJsao5l5QM",
+  "id" : "UfqiJOekh3bhycVZF1dDVpHrO_jAD8_wwBErDSzgE8c",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "The official channel of MAYTREE, THE Korean Acappella group who performed over Asia for concerts and gigs, etc. \nMaytree is a professional mixed a cappella group founded in 2000, and has been active ever since, in all sorts of performance, concerts, TV and Radio shows, commercial music, CD recording and education. Our own unique color comes from our refined arrangements, original pieces, the powerful vocal drum and harmony. We have been finding ways to make brand-new beautiful sounds with the human voice.",
+    "publishedAt" : "2021-02-23T08:09:09.517Z",
+    "resourceId" : {
+      "channelId" : "UC3mY2SKYhPjqImtBBXsR6_Q",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniFPxs1rX0ORxJKJ90jZBgC7lADVzylk6BrCTw4Bg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniFPxs1rX0ORxJKJ90jZBgC7lADVzylk6BrCTw4Bg=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniFPxs1rX0ORxJKJ90jZBgC7lADVzylk6BrCTw4Bg=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "MayTree"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 280
+  },
+  "etag" : "KpVlNqZ-P3GvY4co2Cop1VzBP9c",
+  "id" : "UfqiJOekh3bhycVZF1dDVkYqn2b7hcexvpoXBNGjpYg",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "YO YO YO YO YO YO YO YO YOOOOOOOOOOOOOOOOOO, WUDDDDUPPPPPP! \n\nChannel Art by: @mushbuh\n\nWebsite: idubbbz.com\n\nTwitter: Twitter.com/idubbbz\nFacebook: Facebook.com/idubbbz",
+    "publishedAt" : "2020-12-12T12:28:49.516Z",
+    "resourceId" : {
+      "channelId" : "UC4USoIAL9qcsx5nCZV_QRnA",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjdV0r1smBLAq4JcfzSZoGDqgF-Vpu8qtjNdWlYdQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjdV0r1smBLAq4JcfzSZoGDqgF-Vpu8qtjNdWlYdQ=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjdV0r1smBLAq4JcfzSZoGDqgF-Vpu8qtjNdWlYdQ=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "iDubbbzTV"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 30
+  },
+  "etag" : "6kECx1zivpQ-Ck5QVPXdQlU6600",
+  "id" : "UfqiJOekh3Y7PHkQu5TT4Gc6aM0MVUP2u-OjaTzGQ28",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Let's break the Internet.",
+    "publishedAt" : "2020-12-12T12:29:29.717Z",
+    "resourceId" : {
+      "channelId" : "UCTjPBE9BNsmv44wgxWEy2zw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjFye9rQKbEX-J4L1TghikRFPx4-tTAb8O6GLnKvQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjFye9rQKbEX-J4L1TghikRFPx4-tTAb8O6GLnKvQ=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjFye9rQKbEX-J4L1TghikRFPx4-tTAb8O6GLnKvQ=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Will Kwan"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 33
+  },
+  "etag" : "lsWFbV-l5-LD3cYeeNmeZ8S7Izs",
+  "id" : "UfqiJOekh3a_L0BMfJS_OQ0M1dD_5VmCFd0-z1JA75Y",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "声優、アーティストとして活動中の雨宮天(あまみや・そら)の公式チャンネルです。\n\n【プロフィール】http://www.amamiyasora.jp/profile/",
+    "publishedAt" : "2020-12-12T12:25:29.121Z",
+    "resourceId" : {
+      "channelId" : "UCc4xpujLxnUBSI1XX-SdldQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhRvQtTVNB9A6Eo-JMXnpxLlSNkYV41NO8Ma2CG=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhRvQtTVNB9A6Eo-JMXnpxLlSNkYV41NO8Ma2CG=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhRvQtTVNB9A6Eo-JMXnpxLlSNkYV41NO8Ma2CG=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "雨宮天公式YouTubeチャンネル"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 325
+  },
+  "etag" : "UMgVLKS9FScAxZK4En9Z9feUoqA",
+  "id" : "UfqiJOekh3bhycVZF1dDVqxl7jWb8bTdYGy_MmXjzeQ",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "LowSpecGamer is a channel dedicated to budget gaming and low graphics, from pushing entry-level and old hardware to its limits to forcing the lowest graphics on modern games by all means possible. On the way might learn about what affects a game performance, how to get the best of what you have or what do you really need to play on VR or the true value of a \"Gaming Phone\".\n\nLet's get started.",
+    "publishedAt" : "2020-12-27T03:31:41.844Z",
+    "resourceId" : {
+      "channelId" : "UCQkd05iAYed2-LOmhjzDG6g",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhqUZvClJvo01ylhbnkZFiXYd5mUqLDadkChukg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhqUZvClJvo01ylhbnkZFiXYd5mUqLDadkChukg=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhqUZvClJvo01ylhbnkZFiXYd5mUqLDadkChukg=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "LowSpecGamer"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 491
+  },
+  "etag" : "7zk01HB9-Fhcl1XHdvqtJfj0Xt4",
+  "id" : "UfqiJOekh3bhycVZF1dDVvHqeIXf1YZk3TE410rppcU",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Enjoying the best and worst of new and old technology.\nConsumer Tech - by a Tech Consumer\n\nCrowdfunding Support Received via:\nPatreon: https://www.patreon.com/techmoan\n\n------AFFILIATED LINKS/ADVERTISING NOTICE-------\nAll links are Affiliated where possible.\nWhen you click on links to various merchants posted here and make a purchase, this can result in me earning a commission. Affiliate programs and affiliations include, but are not limited to, the eBay Partner Network & Amazon. \nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to AMAZON Sites (including, but not limited to Amazon US/UK/DE/ES/FR/NL/IT/CAN)\n\nUNSOLICITED PACKAGES/PARCELS ARE DESTROYED WITHOUT OPENING.  \nIf you think you have something that I'd be interested in, please contact me first to check.",
+    "publishedAt" : "2021-02-13T06:58:47.556Z",
+    "resourceId" : {
+      "channelId" : "UC5I2hjZYiW9gZPVkvzM8_Cw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjnyFSm26vrQMy0viwqwWaAWx_9QKB6_5wbElECzS0=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjnyFSm26vrQMy0viwqwWaAWx_9QKB6_5wbElECzS0=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjnyFSm26vrQMy0viwqwWaAWx_9QKB6_5wbElECzS0=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Techmoan"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 43
+  },
+  "etag" : "p82d5tuylfkQZD-DTA1EZ2IcCt0",
+  "id" : "UfqiJOekh3Y7PHkQu5TT4ELDcWDIA9t_YDMQH7P-GlQ",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Ben&Ben is a 9-piece band from Manila, Philippines, consisting of twin brothers Paolo Benjamin and Miguel Benjamin on acoustic guitars and vocals, Poch Barreto on electric guitar, Jam Villanueva on drums, Agnes Reoma on bass, Patricia Lasaten on keyboards, Toni Muñoz and Andrew de Pano on percussions, and Keifer Cabugao on violin. With their eclectic foray into folk and world music blending seamlessly with intricate pop sensibilities, the nine-piece act redefined the mainstream music lane with a blueprint that makes intimacy feel big and expansive. Their songs paint an indelible portrait of a generation that knows their worth despite the brokenness inside, creating a connection between the personal and the universal.\n\nLearn more at: benandbenmusic.com",
+    "publishedAt" : "2020-12-12T12:25:51.853Z",
+    "resourceId" : {
+      "channelId" : "UCD2HT__OY6xzj-YbnAXJhfA",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhI9aia6neNmiDbRAFzLEyuc1ZZ0QwmMspL6Plbig=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhI9aia6neNmiDbRAFzLEyuc1ZZ0QwmMspL6Plbig=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhI9aia6neNmiDbRAFzLEyuc1ZZ0QwmMspL6Plbig=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Ben&Ben"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 82
+  },
+  "etag" : "SwK_SABcCDNJk96uEeIcnjudVpc",
+  "id" : "UfqiJOekh3Y7PHkQu5TT4Hqdr1M_AsN0LjpA96n27ig",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "I do stuff with portable music players. \n\nBanner by @MaxieM0us3",
+    "publishedAt" : "2020-12-13T09:27:20.227Z",
+    "resourceId" : {
+      "channelId" : "UC7Jwj9fkrf1adN4fMmTkpug",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjgu4OndGxQoTsuCquuuYn69ZOvWgfQ50duR2bQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjgu4OndGxQoTsuCquuuYn69ZOvWgfQ50duR2bQ=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjgu4OndGxQoTsuCquuuYn69ZOvWgfQ50duR2bQ=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "DankPods"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 529
+  },
+  "etag" : "vlxgzR2Oqm-_qMmfW9Um-WlJCOk",
+  "id" : "UfqiJOekh3bhycVZF1dDVmDkl0-UZsd9hBcueqqZYjo",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Hello! I'm Michael. Welcome to my YouTube channel! I make videos about all things vintage tech. Retrospectives, Unboxings, Tutorials, you name it! I upload new videos multiple times every week!\n\nIf you like what you see, be sure to subscribe to get notified about future uploads!\n\n**Any messages regarding \"multi channel networks\" will be ignored**\n\nPC Specs: https://kit.co/mjd/my-pc-build\n\nFilming/Editing Equipment: https://kit.co/mjd/video-gear",
+    "publishedAt" : "2021-02-13T06:56:49.003Z",
+    "resourceId" : {
+      "channelId" : "UCS-WzPVpAAli-1IfEG2lN8A",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjFREMERLGSFntiZHl3Y3wKokwJUZ4CCk1orY3M=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjFREMERLGSFntiZHl3Y3wKokwJUZ4CCk1orY3M=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjFREMERLGSFntiZHl3Y3wKokwJUZ4CCk1orY3M=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Michael MJD"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 409
+  },
+  "etag" : "ZmmcGKyl5GKZxm9IuHo_A1dFbok",
+  "id" : "UfqiJOekh3bhycVZF1dDVuq6JJ3LGP2BKRqk_OWQtvg",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Video games, tech reviews, DIY and more!\n\nI create videos about retro video games, computers and technology, product reviews, DIY projects and content creation.\n\nWanna send a postcard or donate an item to the show? You can send it to:\n\nThis Does Not Compute\nPO Box 131141\nSt. Paul, MN 55113",
+    "publishedAt" : "2021-02-13T06:58:58.196Z",
+    "resourceId" : {
+      "channelId" : "UCEp20NgOZHmgWdbQdHSxgjw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniKh13DiqMgTk6k-gz5lKGMvlXjjcwMIYmMTWdJhg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniKh13DiqMgTk6k-gz5lKGMvlXjjcwMIYmMTWdJhg=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniKh13DiqMgTk6k-gz5lKGMvlXjjcwMIYmMTWdJhg=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "This Does Not Compute"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 809
+  },
+  "etag" : "av3iXog-QmTovn8HLyXJdEesUm0",
+  "id" : "UfqiJOekh3bhycVZF1dDVrJ5wuRmDEGbBmRvHcY5oe8",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "I review technology from the inside with smartphone durability tests and teardown videos! Mixed with drones and other random projects.\nDO NOT EMAIL ME ABOUT GIVEAWAYS OR FREE PHONES. Giveaways are 100% random.\n\nSEND ME STUFF: \n\n125 East Main Street Suite 335\nAmerican Fork, Utah\n84003\n\nANYTHING SENT TO THE ABOVE ADDRESS will not be returned. \nIf you want me to make a video tear-down on a product, feel free to send it. But there is no guarantee of a video unless agreed upon beforehand via email.\n\nVideos are for Entertainment Purposes only.  Attempt any repairs at your own risk. \nJerryRigEverything is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.\nJerryRigEverything is a participant in FIXEZ Affiliate Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to FIXEZ",
+    "publishedAt" : "2021-02-20T14:59:06.593Z",
+    "resourceId" : {
+      "channelId" : "UCWFKCr40YwOZQx8FHU_ZqqQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni7jM17G7DNPF1g5kIwP75_xRX4OGL7mpPygPxZPA=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni7jM17G7DNPF1g5kIwP75_xRX4OGL7mpPygPxZPA=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni7jM17G7DNPF1g5kIwP75_xRX4OGL7mpPygPxZPA=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "JerryRigEverything"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 400
+  },
+  "etag" : "118z7PPpLvXkJs-nd7JYyf0PE9Y",
+  "id" : "UfqiJOekh3bhycVZF1dDVqcv9JpF6ea_tSSEKyJubt8",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "short documentaries about going to extreme lengths to solve absolutely trivial mysteries 🛫\n\n✈✈✈\n\nsubjects include:\n• Mario\n• Mario's hair\n• Domino's App feat. Hatsune Miku\n• Super Monkey Ball\n• going to japan\n• etc\n\nlooking for a place to start? check out \"Best Of\" playlist on my channel page!\n\nbusiness inquiries only: nickmgmt@ellifyagency.com",
+    "publishedAt" : "2020-12-25T17:53:34.958Z",
+    "resourceId" : {
+      "channelId" : "UCOuddH5GyBXp-_tv_ASdp_A",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngTizFVkpZQZvVc93PXjEu4iWOhGLJmgS6QUaXZmQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngTizFVkpZQZvVc93PXjEu4iWOhGLJmgS6QUaXZmQ=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngTizFVkpZQZvVc93PXjEu4iWOhGLJmgS6QUaXZmQ=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Nick Robinson"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 46
+  },
+  "etag" : "lmZB1PI8MNdoISQAxgFkVA6_D5w",
+  "id" : "UfqiJOekh3Y7PHkQu5TT4DCk-EjXZoooTcqU6D710GA",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "🌰",
+    "publishedAt" : "2020-12-12T12:28:34.877Z",
+    "resourceId" : {
+      "channelId" : "UCtHaxi4GTYDpJgMSGy7AeSw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniNFZ5N3H3DJH0UEz11kGc3-h3fW-A_3lBjWLYwHg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniNFZ5N3H3DJH0UEz11kGc3-h3fW-A_3lBjWLYwHg=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniNFZ5N3H3DJH0UEz11kGc3-h3fW-A_3lBjWLYwHg=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Michael Reeves"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 10
+  },
+  "etag" : "DVdcxTfduPW0VDvaxpdsO6FE6LE",
+  "id" : "UfqiJOekh3a_L0BMfJS_OV7pb1u4kR1HAbmJgoaun0g",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "bayani na super",
+    "publishedAt" : "2021-02-06T11:43:52.968Z",
+    "resourceId" : {
+      "channelId" : "UCGn0ep0f0tjnegstKIlVgqg",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngR1_Bp93BGxbp6XDEfF5hCQu23tLHZ2yBQ-fsK=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngR1_Bp93BGxbp6XDEfF5hCQu23tLHZ2yBQ-fsK=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngR1_Bp93BGxbp6XDEfF5hCQu23tLHZ2yBQ-fsK=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Super Bayani"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 260
+  },
+  "etag" : "DydpqJN0eHHnnRc88589-3IlIWo",
+  "id" : "UfqiJOekh3bhycVZF1dDVltezFNHI4xdaCX8W8T-bLs",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "A computer video series focusing mainly on retro technology from the 80's, 90's and 2000's. However, once or twice a year I'll create something totally \"out there.\"  My main goal at this point is to make educational content about retro technology that is interesting and engaging.  Some people will be re-living their childhood, while others will be experiencing the technology for the first time. \n\nYou can help support this channel and content by donating $1 per month on Patreon:\nhttps://www.patreon.com/8BitGuy1",
+    "publishedAt" : "2021-02-13T06:59:04.805Z",
+    "resourceId" : {
+      "channelId" : "UC8uT9cgJorJPWu7ITLGo9Ww",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni90vq5dQbo824aMYFmmrn4MfLkDpK3mVsAVDLJ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni90vq5dQbo824aMYFmmrn4MfLkDpK3mVsAVDLJ=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni90vq5dQbo824aMYFmmrn4MfLkDpK3mVsAVDLJ=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "The 8-Bit Guy"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 141
+  },
+  "etag" : "mF5xbJZmaJv4NODvM4n5d2SxUyg",
+  "id" : "UfqiJOekh3bhycVZF1dDVvi0ohGXC_fxYgRukJzatc4",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Hi I'm tokaku!\nI'm a 21 year old from Singapore. I started off making osu! videos and I still do, but I've started playing other rhythm games too. I hope you enjoy my videos!\n\n(does anyone even look at channel descriptions anymore)",
+    "publishedAt" : "2020-12-12T12:26:27.190Z",
+    "resourceId" : {
+      "channelId" : "UCMteIF4ZD5-hgZ8YhSN454g",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjlaFftOYHiU43-u__JfmZINlw7t35-m8yNX_yqDw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjlaFftOYHiU43-u__JfmZINlw7t35-m8yNX_yqDw=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjlaFftOYHiU43-u__JfmZINlw7t35-m8yNX_yqDw=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "tokaku"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 139
+  },
+  "etag" : "4vBrlqdu3pG54JXCftnl92oy_ao",
+  "id" : "UfqiJOekh3Y7PHkQu5TT4Mdvm5NyM-xzkDXWKEwAgXE",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Working on my plan for world domination.",
+    "publishedAt" : "2021-01-01T06:36:24.900Z",
+    "resourceId" : {
+      "channelId" : "UC4sxB7lQ17CKRpFQpntloRg",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhHb194O3I2QgUcJvns7moSGH6DdXY19s3J__m1=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhHb194O3I2QgUcJvns7moSGH6DdXY19s3J__m1=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhHb194O3I2QgUcJvns7moSGH6DdXY19s3J__m1=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "twomad"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 377
+  },
+  "etag" : "8jrV81z-StCbaMPoVEC1Hfl2muw",
+  "id" : "UfqiJOekh3Y7PHkQu5TT4DYliCf9doKgQoW7lydk99A",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Everyday there are scammers taking advantage of people. I call them to waste their time, walk people through their \"script\" and lies, report info when I can, and otherwise make light of a dark situation. \nI'm live almost everyday on twitch: https://www.twitch.tv/kitboga",
+    "publishedAt" : "2021-02-13T06:57:16.477Z",
+    "resourceId" : {
+      "channelId" : "UCm22FAXZMw1BaWeFszZxUKw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhU3m2jqdrl4CMhckiQ5NzAj3gJAVTpJNwBhBhh=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhU3m2jqdrl4CMhckiQ5NzAj3gJAVTpJNwBhBhh=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhU3m2jqdrl4CMhckiQ5NzAj3gJAVTpJNwBhBhh=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Kitboga"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 467
+  },
+  "etag" : "wEw5Db7vh3ib3kRyGLN1cIFgwUA",
+  "id" : "UfqiJOekh3bhycVZF1dDVqcdVGgeC9lu226OkUahKWM",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "ミライエ (Pronounce as Mirai)\n今一番楽しいと思うことをやる。",
+    "publishedAt" : "2020-12-12T12:26:01.797Z",
+    "resourceId" : {
+      "channelId" : "UCB18IliCiBeraa8oysaTZSQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwninPIkJRXWshC2W9omuoxF099p3zMEmdFkzXk1YqA=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwninPIkJRXWshC2W9omuoxF099p3zMEmdFkzXk1YqA=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwninPIkJRXWshC2W9omuoxF099p3zMEmdFkzXk1YqA=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Miraie"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 63
+  },
+  "etag" : "dlsiP-pwlT7WsrDt84PXAOQroec",
+  "id" : "UfqiJOekh3ZqN58bDK31q_kgjZgxVfze7OCu3RbUyhM",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Hi, My name is Llyan Oliver Austria\n\nDis is my 2nd channel guys.\nRandom Kalokohans and Eberydae Shenanigans",
+    "publishedAt" : "2020-12-12T11:52:40.725Z",
+    "resourceId" : {
+      "channelId" : "UCHHYB05slIGQR5NT92EPr5g",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngAs8FqfCar8QjUQnajzhbIbhHGROsFnQzXUn_G=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngAs8FqfCar8QjUQnajzhbIbhHGROsFnQzXUn_G=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngAs8FqfCar8QjUQnajzhbIbhHGROsFnQzXUn_G=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Oliver Austria"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 480
+  },
+  "etag" : "BFHVaCk-cVFKfnkjlV-EI2WCWdw",
+  "id" : "UfqiJOekh3bhycVZF1dDVmPOWmokz96i2-MqOb4H8Zo",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Welcome to The Retro Future.\n\nThe Retro Future\nPO Box 174\nJERSEY, UK\nJE4 9RF",
+    "publishedAt" : "2020-12-12T12:30:42.814Z",
+    "resourceId" : {
+      "channelId" : "UCefAbzsWZE4uXU-mqQMrr4Q",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniY_tZ4ik3IABuUtrOATaQVrFRxhyeKUn8F6MXwcro=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniY_tZ4ik3IABuUtrOATaQVrFRxhyeKUn8F6MXwcro=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniY_tZ4ik3IABuUtrOATaQVrFRxhyeKUn8F6MXwcro=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "The Retro Future"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 83
+  },
+  "etag" : "gTSbCbSt5ikgLtcWFUQ8cVhGKPY",
+  "id" : "UfqiJOekh3Y7PHkQu5TT4H1Ujcg7cj7dw-DbikaLa0Q",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "I talk about life in Silicon Valley, big tech companies, data science and software engineering.\n\nJoma Startup: A web series about me starting a startup called Notvine, an app that allows you to share 6.1 second looping videos\n\nFollow me on:\n\nInstagram: http://instagram.com/jomaoppa\nFacebook: https://www.facebook.com/jomaoppa/\nTwitter: https://twitter.com/jomaoppa\nWebsite: https:/joma.io/\n\nPersonal Email: hello@joma.io\nBusiness Only: business@joma.io",
+    "publishedAt" : "2020-12-12T12:29:19.811Z",
+    "resourceId" : {
+      "channelId" : "UCV0qA-eDDICsRR9rPcnG7tw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniqkVXvK9dEpAu9Mkpyz46oCwFYOgg5ummDXx0c=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniqkVXvK9dEpAu9Mkpyz46oCwFYOgg5ummDXx0c=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniqkVXvK9dEpAu9Mkpyz46oCwFYOgg5ummDXx0c=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Joma Tech"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 595
+  },
+  "etag" : "wViJ_UJHzIeuZloUQVSWlnYLUyQ",
+  "id" : "UfqiJOekh3bhycVZF1dDVsSukv25wL1CsGqBZecIo_g",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Hi, I'm Tom Scott. These are some of the things I've made and done. They'll probably come back to haunt me in a few years' time.\n\nContact me: https://www.tomscott.com/contact/\n\n• • •\n\nThis channel is a production of Pad 26 Limited, registered in England and Wales, № 11662641.\nRegistered office: Amelia House, Crescent Road, Worthing, West Sussex, BN11 1QR\n(This address is only for legal documents; no other mail will be forwarded.)",
+    "publishedAt" : "2021-02-20T14:59:16.083Z",
+    "resourceId" : {
+      "channelId" : "UCBa659QWEk1AI4Tg--mrJ2A",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnigiEcc2DfWlSdLoEDko1azVNC24NNI4yUef4F8fA=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnigiEcc2DfWlSdLoEDko1azVNC24NNI4yUef4F8fA=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnigiEcc2DfWlSdLoEDko1azVNC24NNI4yUef4F8fA=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Tom Scott"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 376
+  },
+  "etag" : "qb5tOpe176rRbNR0xWvz3etcYwM",
+  "id" : "UfqiJOekh3Y7PHkQu5TT4H78D8yK0z2XJ3KLeVwz79k",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Hello ! Thank you for checking out my channel !\nMy name is Jinny and I am Korean.\nI can speak English, Korean and Chinese (a little bit, am studying it!).\n\nI like streaming outside, experiencing things but I also play games and make some interesting contents. I hope you guys have fun watching me ! :D",
+    "publishedAt" : "2021-01-01T06:36:31.785Z",
+    "resourceId" : {
+      "channelId" : "UC8fDTDebMOF9lF8nD7b0EZw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjBN0vyJiJo5Te5RMhpRzt3x9DZsIwHev7gOTPA0Q=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjBN0vyJiJo5Te5RMhpRzt3x9DZsIwHev7gOTPA0Q=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjBN0vyJiJo5Te5RMhpRzt3x9DZsIwHev7gOTPA0Q=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Jinnytty 企鵝妹 윰찌"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 26
+  },
+  "etag" : "LjltI4s6l4504YLOyQtB1-PTwl4",
+  "id" : "UfqiJOekh3ZqN58bDK31q-6sWE2b4RLQlRu3kXOsR9k",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Nao Toyama Official YouTube Channel",
+    "publishedAt" : "2020-12-12T12:37:57.932Z",
+    "resourceId" : {
+      "channelId" : "UCUqd0xbC7x1xc_T7vERlMYQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngkV6P3oNmJ9pVNmpNY8VVgZOWGPGO_296I0PaW=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngkV6P3oNmJ9pVNmpNY8VVgZOWGPGO_296I0PaW=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngkV6P3oNmJ9pVNmpNY8VVgZOWGPGO_296I0PaW=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "東山奈央"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 27
+  },
+  "etag" : "fAvL-RWofW8CZ1CEuK4rm-KgFrA",
+  "id" : "UfqiJOekh3ZqN58bDK31q1dSh4nrYHpgvPzp-X7PUIE",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "making dumb things and sometimes complaining",
+    "publishedAt" : "2020-12-12T12:28:25.392Z",
+    "resourceId" : {
+      "channelId" : "UCSSBvqWNPq_qO3_W4EJiOAA",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh-wjiHhIIWy9qNWAYmufXjhICmnoJ3mjESkQ3Kqw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh-wjiHhIIWy9qNWAYmufXjhICmnoJ3mjESkQ3Kqw=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh-wjiHhIIWy9qNWAYmufXjhICmnoJ3mjESkQ3Kqw=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Tren Black"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 28
+  },
+  "etag" : "sswKseKZeguFBI5W-Fq5yjsKMQI",
+  "id" : "UfqiJOekh3a_L0BMfJS_OaQKY_v1t3CyV_6fei8PTzA",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "comedy channel disguised as a tech channel",
+    "publishedAt" : "2020-12-14T07:32:25.236Z",
+    "resourceId" : {
+      "channelId" : "UCFtOX-21N1earf-K58C7HjQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnguErTvu03xiZrtBquF2Gd4reGBss-TKzKDk7Oo=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnguErTvu03xiZrtBquF2Gd4reGBss-TKzKDk7Oo=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnguErTvu03xiZrtBquF2Gd4reGBss-TKzKDk7Oo=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Glarses"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 110
+  },
+  "etag" : "l7gNFTj8KJidSttFREJEPQiGSJk",
+  "id" : "UfqiJOekh3bhycVZF1dDVtjBd6eIzqnRrCi6rnyn67o",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Hi welcome to the squashy channel! o/\n\ni do mostly random videos and skits. This channel is sad\n\nMy Email: squashyboy20005@gmail.com  (for business inquiries)",
+    "publishedAt" : "2020-12-12T12:26:14.446Z",
+    "resourceId" : {
+      "channelId" : "UCR1gEMJierx77V2Dna8Ka_w",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni7mVCCF2BIZ6opOf2ulj3zxOQnlZrndmYIuSTdKQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni7mVCCF2BIZ6opOf2ulj3zxOQnlZrndmYIuSTdKQ=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwni7mVCCF2BIZ6opOf2ulj3zxOQnlZrndmYIuSTdKQ=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Squashy Boy"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 235
+  },
+  "etag" : "qtd-Q8GMd5ALc5KolzbE2tFeSW0",
+  "id" : "UfqiJOekh3bhycVZF1dDVjkUtj5cP9dOdE1jeyMmIx0",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "I check out everything to do with mechanical keyboards! Inlcuding unboxings & reviews, tutorials, builds, event coverage, and much more!\n\nOfficial Website : www.taekeyboards.com",
+    "publishedAt" : "2020-12-12T12:37:17.317Z",
+    "resourceId" : {
+      "channelId" : "UCllGwtW6scxAjM28fIgEozg",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhTLKq7DQvrOME55RZ5PSmoEs1Vjw25Uz8d5LK07A=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhTLKq7DQvrOME55RZ5PSmoEs1Vjw25Uz8d5LK07A=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhTLKq7DQvrOME55RZ5PSmoEs1Vjw25Uz8d5LK07A=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "TaeKeyboards"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 117
+  },
+  "etag" : "GTygJpqzsUuVnb1zYTjxjKC6AXE",
+  "id" : "UfqiJOekh3bhycVZF1dDVi6wd5-xyob-w1ISU-EJQCg",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Hi I'm Jarvis! I can't figure out how to upload videos to this website but i hope one day i figure it out.\n\nSubscribe so that you know when I finally do the upload!",
+    "publishedAt" : "2020-12-12T12:29:38.042Z",
+    "resourceId" : {
+      "channelId" : "UCoLUji8TYrgDy74_iiazvYA",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjWLTHR1yeKMWoI_6HRPY_cUQmlZm6alXnYYoS7O9Q=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjWLTHR1yeKMWoI_6HRPY_cUQmlZm6alXnYYoS7O9Q=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnjWLTHR1yeKMWoI_6HRPY_cUQmlZm6alXnYYoS7O9Q=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Jarvis Johnson"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 91
+  },
+  "etag" : "4UtVaE4M1oGeGKSryHQg0McClhI",
+  "id" : "UfqiJOekh3Y7PHkQu5TT4J_WWSl6Usvww3KVputevKc",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Welcome sa Tribo ng mga Giyang",
+    "publishedAt" : "2020-12-12T12:31:58.791Z",
+    "resourceId" : {
+      "channelId" : "UCqK69ICpVVyghYDvKew0MGg",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngJ2TuAxCmFvSB7pSpCZlXfjbwrPzHM-yoFPr_W=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngJ2TuAxCmFvSB7pSpCZlXfjbwrPzHM-yoFPr_W=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngJ2TuAxCmFvSB7pSpCZlXfjbwrPzHM-yoFPr_W=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Junnie Boy"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 149
+  },
+  "etag" : "1BkUfk1_jcV6kNO_dUtON7ioVtU",
+  "id" : "UfqiJOekh3bhycVZF1dDVkIVzwgOQivNHqjC4xfuY1E",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Hi, it's me! Dubious quality. Questionable integrity. Unethical delivery. Sometimes the best lessons teach what not to do.",
+    "publishedAt" : "2020-12-12T12:28:42.341Z",
+    "resourceId" : {
+      "channelId" : "UCfMJ2MchTSW2kWaT0kK94Yw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngLcrIMXKl9lsCsauoev0O2mZlD4CejxwRIYttvUw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngLcrIMXKl9lsCsauoev0O2mZlD4CejxwRIYttvUw=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwngLcrIMXKl9lsCsauoev0O2mZlD4CejxwRIYttvUw=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "William Osman"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 104
+  },
+  "etag" : "sRy46SFRZZo3jbvJfDJ4UETssZs",
+  "id" : "UfqiJOekh3bhycVZF1dDVvdfiJeLvVoO0g17sxOr8w4",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "🌸a b o u t 🌸\nMayuko Inoue is a content creator and Software Engineer. After working in Silicon Valley tech companies like Intuit, Patreon, and Netflix for six years as an iOS Engineer, she became a full-time creator in 2020. Her work aims to help people find their way through the tech industry by sharing her own experiences navigating this world through technology, career advice, and lifestyle videos. She is passionate about discussions around mental health, cultural identity, and creating technology with empathy and compassion.\n\n✉️c o n t a c t ✉️\nIf you'd like to sponsor a video: sponsor@hellomayuko.com\nOther business inquiries: business@helloMayuko.com\n\nhttps://www.hellomayuko.com",
+    "publishedAt" : "2020-12-12T12:29:44.326Z",
+    "resourceId" : {
+      "channelId" : "UCEDkO7wshcDZ7UZo17rPkzQ",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnivjbUJ86-ZYW6puGnhv0Rey-osg2TL00CF-sEXXw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnivjbUJ86-ZYW6puGnhv0Rey-osg2TL00CF-sEXXw=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnivjbUJ86-ZYW6puGnhv0Rey-osg2TL00CF-sEXXw=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "mayuko"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 268
+  },
+  "etag" : "ZcD6hIRyB0maVsOF2-Wf0Psez7Y",
+  "id" : "UfqiJOekh3bhycVZF1dDVvMBP9BrXFaxL_5-sKC8F9M",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "\"The Broll who always got your back online\"\n\nTechBroll came from the root words \"Tech\" and \"Broll\". B-roll means supplementary content that helps deliver a story better, and that's what I love the most about my contents, creative b-rolls. Another meaning of \"Broll\" came from the Urban Dictionary which means the guy who always got your back online. \n\nNote: TechBroll is formerly known as ShopzadaPH\n\nPlease support me by: \nLeaving a like, sharing my videos and of course, subscribe to my channel\n\nBlog: http://www.techbroll.com\nFacebook: http://www.facebook.com/techbroll\nInstagram: http://www.instagram.com/tech.broll\nTwitter: http://www.instagram.com/techbroll\nYoutube: https://www.youtube.com/techbroll\n\nLet me feature and review your product. Email me at techbrollph@gmail.com or visit https://www.techbroll.com/advertise\n\nDisclaimer: If you buy through my affiliate links I will get a small amount of commission which will help support my channel without additional cost to you. Thank you!",
+    "publishedAt" : "2020-12-12T12:30:01.633Z",
+    "resourceId" : {
+      "channelId" : "UCfAHjWjeX9kpOaIRQs452Og",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhbkNjoWDAqk10O7iRvV4BOclvVq9P-0gPhw4dBWQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhbkNjoWDAqk10O7iRvV4BOclvVq9P-0gPhw4dBWQ=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnhbkNjoWDAqk10O7iRvV4BOclvVq9P-0gPhw4dBWQ=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "TechBroll"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 101
+  },
+  "etag" : "ZRpNmNW0PQdLSGUuxjEu-yJY1Ws",
+  "id" : "UfqiJOekh3a_L0BMfJS_Obo5DeayV12V0eWHzwTwFvQ",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "CHOKE ME TITA",
+    "publishedAt" : "2021-01-28T15:56:45.277Z",
+    "resourceId" : {
+      "channelId" : "UCvQrjgLj841wiQAKDgtKFOw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh4dd6zLO8sEWHgPCjy8X9r5GImTezm7t6FqOkB=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh4dd6zLO8sEWHgPCjy8X9r5GImTezm7t6FqOkB=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh4dd6zLO8sEWHgPCjy8X9r5GImTezm7t6FqOkB=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Ninong Ry"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 0,
+    "totalItemCount" : 40
+  },
+  "etag" : "xUa2XqisxNlUgsRoIqqZsFVDjOs",
+  "id" : "UfqiJOekh3bhycVZF1dDVtRnUDhQuaxLqr1pW8YDyck",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "If you're looking for funny GTA videos, you've come to the wrooong place LOL\nStreams EXCLUSIVELY on YouTube (I unlist the video after I'm done streaming 🤠)\n\nInstagram: @RADALGANG\nTwitter: @RADALOVIC\nBUSINESS EMAIL: radalbiz@gmail.com",
+    "publishedAt" : "2021-02-13T07:18:34.168Z",
+    "resourceId" : {
+      "channelId" : "UCT1mF-u0Lcf7bYuUWTvDcpw",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh1HeUnY9MPI6z6hNetCI7kuUSK09MJaMPeuvqDZA=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh1HeUnY9MPI6z6hNetCI7kuUSK09MJaMPeuvqDZA=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwnh1HeUnY9MPI6z6hNetCI7kuUSK09MJaMPeuvqDZA=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "RADAL"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 206
+  },
+  "etag" : "h1aWRq7uAV4YMTJS_PmUeurg8V4",
+  "id" : "UfqiJOekh3bhycVZF1dDVh3T-k3YZQE0sV13KVshJVc",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "British Guy making videos in Japan.\nOfficially better than Simply Red.\n\n\nMERCHANDISE: https://www.redbubble.com/people/abroadinjapan/shop\nPATREON: https://www.patreon.com/abroadinjapan\n\n\nBritish guy living in Japan. \n\nAs seen on TV! BBC, The Guardian, Reddit, Daily Mail, Gizmodo, Huffington Post, Daily Telegraph, The Independent, London Metro, RocketNews24 Japan\n\nBusiness Enquiries: talent@tokyocreative.jp",
+    "publishedAt" : "2021-02-13T17:53:46.486Z",
+    "resourceId" : {
+      "channelId" : "UCHL9bfHTxCMi-7vfxQ-AYtg",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniL3kLUbiY2iVdZHpDFPE3EbNhxVus5tBonR0xNX5c=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniL3kLUbiY2iVdZHpDFPE3EbNhxVus5tBonR0xNX5c=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniL3kLUbiY2iVdZHpDFPE3EbNhxVus5tBonR0xNX5c=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "Abroad in Japan"
+  }
+}, {
+  "contentDetails" : {
+    "activityType" : "all",
+    "newItemCount" : 1,
+    "totalItemCount" : 61
+  },
+  "etag" : "RAebg9DJhIa2akkgnJole_1s928",
+  "id" : "UfqiJOekh3bhycVZF1dDVkrkqrLaU96bNe7S5mNmzbM",
+  "kind" : "youtube#subscription",
+  "snippet" : {
+    "channelId" : "UCO1kk1oGJu3A2Rb9URpHXRw",
+    "description" : "Malaysian comedian and content creator based in London, UK. Creator of Uncle Roger and Rice To Meet You podcast.\n\nFor general enquiries:\nMatthew Harvey\nMHARV@wmeagency.com\n\nFor brand enquiries:\nAllison Howard\nALH@wmeagency.com",
+    "publishedAt" : "2020-12-12T12:58:13.522Z",
+    "resourceId" : {
+      "channelId" : "UCVjlpEjEY9GpksqbEesJnNA",
+      "kind" : "youtube#channel"
+    },
+    "thumbnails" : {
+      "default" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniYXpHhxU-_wTQyNd6ZZ2XH-LAEYQPk4jWktlbB0w=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "high" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniYXpHhxU-_wTQyNd6ZZ2XH-LAEYQPk4jWktlbB0w=s800-c-k-c0x00ffffff-no-rj"
+      },
+      "medium" : {
+        "url" : "https://yt3.ggpht.com/ytc/AAUvwniYXpHhxU-_wTQyNd6ZZ2XH-LAEYQPk4jWktlbB0w=s240-c-k-c0x00ffffff-no-rj"
+      }
+    },
+    "title" : "mrnigelng"
+  }
+} ]
