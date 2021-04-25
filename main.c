@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
-#include "json-c/json.h"
+#include <json-c/json.h>
+
+#include "checkIfReserved.c"
 
 #define MAX_SUBS 2048
 #define MAX_BUFF 65536
@@ -26,13 +28,13 @@ int main(){
 
     size_t nArray;
     size_t i;
-
+    
     fp_json = fopen("subscriptions.json", "r");
     fread(buffer, MAX_BUFF,1,fp_json);
     fclose(fp_json);
 
     sub_array = json_tokener_parse(buffer); //treat the input json file as one large array
-
+    
     nArray = json_object_array_length(sub_array);
     printf("Found %lu subscriptions!\n", nArray);
 
@@ -47,14 +49,14 @@ int main(){
 
         printf("title: %s, channelId: %s\n", json_object_get_string(title), json_object_get_string(channelId));
 
-        strcpy(channel_name[i], json_object_get_string(title));
+        strcpy(channel_name[i], checkIfReserved(json_object_get_string(title)));
         strcpy(channel_id[i], json_object_get_string(channelId));
 
         printf("Successfully added channel to array!\n");
 
         nChannels++;
     }
-
+    
     fp_opml = fopen("subscriptions.opml", "w");
 
     //this adds opening tags
