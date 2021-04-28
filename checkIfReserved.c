@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
+#include <stdlib.h>
 
-typedef char string6[7];
+#include "constants.h"
 
 const char *checkIfReserved(const char *channel_name){
     char resChars[5] = {'<','>','&','\'','\"'};
